@@ -1479,10 +1479,10 @@
   resolved "https://registry.yarnpkg.com/@types/strip-json-comments/-/strip-json-comments-0.0.30.tgz#9aa30c04db212a9a0649d6ae6fd50accc40748a1"
   integrity sha512-7NQmHra/JILCd1QqpSzl8+mJRc8ZHz3uDm8YV1Ks9IhK0epEiTw8aIErbvH9PI+6XbqhyIQy3462nEsn7UVzjQ==
 
-"@types/update-notifier@2.5.1":
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/@types/update-notifier/-/update-notifier-2.5.1.tgz#bbf689a326ae5da577c3f95f59c8877f88f8dd65"
-  integrity sha512-Wl8Bv7GqYlN9R0CeLFTlrDgwvugCBkxKBx3FHYA6NlxIQhDk2lYdXXNqBM+mF8trApoMVFJCI5hb5BK/nKBR8g==
+"@types/update-notifier@2.5.2":
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/@types/update-notifier/-/update-notifier-2.5.2.tgz#e60564eb0ffd3d5a96b9a3d818dc442e5b480b8d"
+  integrity sha512-ZmL2kKYKxWaEpzmnZY5NM9G0xWOppktEZ/yyMKvmX9y6U4vFFA7TeJ3vVk/fgjquv0QXN8g1B5rSsbGQjI/JKQ==
 
 "@types/yargs-parser@*":
   version "15.0.0"
